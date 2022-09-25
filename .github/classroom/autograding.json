@@ -25,7 +25,7 @@
       "setup": "",
       "run": "g++ -std=c++11 q2.cpp && ./a.out",
       "input": "30 20 10",
-      "output": "30 20 10 10",
+      "output": "30      20      10      10",
       "comparison": "included",
       "timeout": 10,
       "points": 1
