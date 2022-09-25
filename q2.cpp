@@ -32,7 +32,7 @@ int findMin(int n1, int n2, int n3)
 }
 void printResult(int n1, int n2, int n3, int min)
 {
-	cout << n1 << "\t" << n2 << "\t" << n3 << "\t" << min << "\t" << endl;
+	cout << n1 << " " << n2 << " " << n3 << " " << min << " " << endl;
 }
 
 // ******************************
